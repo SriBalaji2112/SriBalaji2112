@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e471lsyi4p1tfajy2zrjr3ifrwd2l37b9qteqdpg3q2&rid=giphy.gif&ct=s" width="600" height="300"/>
 </div>
 
 ---
